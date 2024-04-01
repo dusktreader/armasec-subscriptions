@@ -15,8 +15,7 @@ CHANGELOG = "https://github.com/omnivector-solutions/armasec-subscriptions/blob/
 
 [tool.poetry.dependencies]
 python = "^3.8"
-# armasec = "^1.3.0"
-armasec = {path = "../armasec"}
+armasec = "^1.4.0"
 httpx = "^0.27.0"
 cachetools = "^5.3.3"
 
