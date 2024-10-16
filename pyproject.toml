@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "armasec-subscriptions"
-version = "0.1.0"
+version = "0.1.1"
 description = "Armasec plugin for verifying subscribed user access"
 authors = ["Omnivector Engineering Team <info@omnivector.solutions>"]
 license = "MIT"

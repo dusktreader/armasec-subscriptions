@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## Unreleased
 
+## v0.1.1 - 2024-10-14
+
+- Upgrade the *armasec* version from *^1.4.0* to *^2.0.1*
+
 ## v0.1.0 - 2024-03-19
 
 - Initial release of armasec-submissions
